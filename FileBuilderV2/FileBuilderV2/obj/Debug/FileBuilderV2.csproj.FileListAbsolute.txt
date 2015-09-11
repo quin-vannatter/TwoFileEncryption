@@ -1,0 +1,8 @@
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\bin\Debug\FileBuilderV2.exe
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\bin\Debug\FileBuilderV2.pdb
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.csprojResolveAssemblyReference.cache
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.Properties.Resources.resources
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.csproj.GenerateResource.Cache
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.exe
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.pdb
+c:\users\quinlan\documents\visual studio 2013\Projects\FileBuilderV2\FileBuilderV2\obj\Debug\FileBuilderV2.FileHider.resources
